@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bier-backend-with-aut-mysql", "bier-backend-with-aut-mysql\bier-backend-with-aut-mysql.csproj", "{AFBE6E06-03B8-412C-8E79-91A38A8A1D00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBE6E06-03B8-412C-8E79-91A38A8A1D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBE6E06-03B8-412C-8E79-91A38A8A1D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBE6E06-03B8-412C-8E79-91A38A8A1D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBE6E06-03B8-412C-8E79-91A38A8A1D00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97F73CB9-33B4-4B3C-A4A6-4E2F6F8A13E4}
+	EndGlobalSection
+EndGlobal
